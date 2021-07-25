@@ -1,6 +1,9 @@
 {
-    "": {
-      "reason": "https://imgur.com/TKsAoBo.png",
+  "facebook": {
+      "": {
+      "reason": "you mod, you die.",
       "noAdding": true
     }
+  },
+  "discord": {}
 }
